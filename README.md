@@ -9,5 +9,6 @@ This repository contains my step-by-step learning progress in HTML and CSS.
 - HTML best practices
 - CSS basics
 - CSS box model
+- CSS flexbox
 
 Each folder represents focused daily practice with clean and structured code.
